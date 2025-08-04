@@ -2,7 +2,7 @@
 
 ## 📊 Transformation Réalisée
 
-Votre projet a été **complètement restructuré** pour devenir un projet de data science **professionnel et attractif** pour les recruteurs.
+Le projet a été **complètement restructuré** pour devenir un projet de data science **professionnel et attractif** pour les recruteurs.
 
 ---
 
@@ -117,7 +117,7 @@ Votre projet a été **complètement restructuré** pour devenir un projet de da
 ### Installation Rapide
 ```bash
 # Cloner et installer
-git clone <votre-repo>
+git clone https://github.com/soboure69/Geolocalisation-Cartes-RSSI.git
 cd Geolocalisation-Cartes-RSSI
 pip install -r requirements.txt
 
@@ -174,7 +174,7 @@ python main.py
 
 ## 🏅 **Conclusion**
 
-Votre projet est maintenant **prêt pour impressionner les recruteurs** ! Il démontre :
+Le projet est maintenant ! Il démontre :
 
 - ✅ **Maîtrise technique** complète du stack data science
 - ✅ **Capacité à structurer** un projet complexe
@@ -182,8 +182,8 @@ Votre projet est maintenant **prêt pour impressionner les recruteurs** ! Il dé
 - ✅ **Vision produit** avec interface utilisateur
 - ✅ **Qualité professionnelle** du code
 
-**Ce projet vous positionne comme un candidat data scientist junior avec des compétences solides en ingénierie logicielle et une approche professionnelle du machine learning.**
+**Ce projet me positionne comme un candidat data scientist junior avec des compétences solides en ingénierie logicielle et une approche professionnelle du machine learning.**
 
 ---
 
-*Projet transformé le 2 août 2025 - Prêt pour conquérir le marché de l'emploi ! 🚀*
+*Projet mise à jour le 2 août 2025 - Prêt pour conquérir le marché de l'emploi ! 🚀*

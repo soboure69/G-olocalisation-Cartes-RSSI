@@ -214,7 +214,7 @@ config.visualization.dashboard_port = 8080  # Port personnalisé
 
 ## 👥 Contribution
 
-Les contributions sont les bienvenues ! Voir [CONTRIBUTING.md](CONTRIBUTING.md) pour les guidelines.
+Les contributions sont les bienvenues ! Voir [CONTRIBUTING.md](docs/CONTRIBUTING.md) pour les guidelines.
 
 ### Développement
 

@@ -15,6 +15,9 @@ import logging
 import argparse
 from datetime import datetime
 import warnings
+import io
+
+sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 
 # Ajouter le dossier src au path
 sys.path.append(os.path.join(os.path.dirname(__file__), 'src'))
