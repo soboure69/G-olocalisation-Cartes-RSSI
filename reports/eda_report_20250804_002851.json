@@ -1,0 +1,44 @@
+{
+  "timestamp": "2025-08-04T00:28:51.487746",
+  "data_summary": {
+    "total_samples": 74,
+    "total_features": 204,
+    "missing_percentage": 4.504504504504505
+  },
+  "rssi_statistics": {
+    "rssi_0": {
+      "mean": -55.50215805517059,
+      "std": 7.30761839392572,
+      "min": -74.35406840336758,
+      "max": -30.96021944084316,
+      "missing_percentage": 4.557498675145734
+    },
+    "rssi_1": {
+      "mean": -53.99444393716229,
+      "std": 9.34542322348841,
+      "min": -72.13541758542554,
+      "max": -30.9602208422102,
+      "missing_percentage": 4.531001589825119
+    },
+    "rssi_2": {
+      "mean": -50.897515588578734,
+      "std": 6.277308740128994,
+      "min": -68.58965651415276,
+      "max": -30.960214815268507,
+      "missing_percentage": 4.425013248542661
+    },
+    "rssi_3": {
+      "mean": -54.556965838551264,
+      "std": 7.851363373444492,
+      "min": -72.275281106432,
+      "max": -30.960214815268507,
+      "missing_percentage": 4.504504504504505
+    }
+  },
+  "recommendations": [
+    "Nettoyage des valeurs manquantes",
+    "Standardisation des features",
+    "Validation croisée",
+    "Monitoring de la qualité des données"
+  ]
+}
